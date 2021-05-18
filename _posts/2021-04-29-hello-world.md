@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "Welcome to Invest with Credo"
 date:   2021-04-29
 published: true
 author: stephen
