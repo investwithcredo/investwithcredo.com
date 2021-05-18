@@ -13,7 +13,8 @@ layout: default
 
         <div class="post__info">
           <div class="post__author">
-            <span>By {{site.data.settings.author.name}}</span>
+            <span>By {{ page.author }}</span>
+            /* <span>By {{site.data.settings.author.name}}</span> */
           </div>
 
           {% if page.tags.size >= 1 %}
