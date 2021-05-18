@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-image: invest-with-credo.jpg
 ---
 
 Hello and Welcome to Invest with CREDO.
