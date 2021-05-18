@@ -5,7 +5,7 @@ date:   2021-04-29
 published: true
 author: stephen
 image:  micheile-henderson-ZVprbBmT8QA-unsplash.jpg
-tags:   Invest with Credo
+tags:   CREDO
 ---
 Hello World! Welcome to start of Invest with Credo. A community to grow, learn, invest, and prosper together.
 
