@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Invest with Credo"
+title:  "Hello World!"
 date:   2021-04-29
 published: true
 author: Stephen Woicik
