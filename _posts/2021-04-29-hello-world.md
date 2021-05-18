@@ -7,7 +7,7 @@ author: Stephen Woicik
 image:  micheile-henderson-ZVprbBmT8QA-unsplash.jpg
 tags:   CREDO
 ---
-Hello World! Welcome to start of Invest with Credo. A community to grow, learn, invest, and prosper together.
+Hello World, and welcome to start of Invest with Credo. A community to grow, learn, invest, and prosper together.
 
 The inspiration and direction for Credo started from a simple enough idea, where do we talk about money? It’s odd. Money is something that everyone has in common. Something you could discuss with just about anyone and they would understand. Yet it’s not something we talk about. That needs to change.
 
