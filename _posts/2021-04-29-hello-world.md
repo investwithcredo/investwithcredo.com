@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Invest with Credo"
 date:   2021-04-29
 published: true
-author: stephen
+author: Stephen Woicik
 image:  micheile-henderson-ZVprbBmT8QA-unsplash.jpg
 tags:   CREDO
 ---
