@@ -21,5 +21,7 @@ If you have any questions, ideas, or just want to chat, let us know. Head to the
 
 From the CREDO Team (Stephen, Boubacar, and Neal)
 
+Have a question or want to discuss more? Join us on the [community discussion board](https://github.com/investwithcredo/CredoCommunity/discussions/2).
+
 Photo by <a href="https://unsplash.com/@micheile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Micheile Henderson</a> on <a href="https://unsplash.com/s/photos/money?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
