@@ -17,14 +17,13 @@ We hope you enjoy, and if you want to discuss anything with us, join the [Credo 
 
 ## Investing Recap
 (May 31, 2021 - June 4, 2021)
- 
-**S&P 500** - 0.88% Gain
 
-**Total Stock Market** - 0.52% Gain
- 
-**Bitcoin** - 3.2% Gain
- 
-**Ethereum** - 2.46% Loss
+| Asset              | Gain/Loss  |
+| :---:              | :---:      |
+| S&P 500            | 0.88% Gain |
+| Total Stock Market | 0.52% Gain |
+| Bitcoin            | 3.2% Gain  |
+| Ethereum           | 2.46% Loss |
 
 ## News and Notes
 
