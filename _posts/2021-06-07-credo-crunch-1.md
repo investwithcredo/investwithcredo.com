@@ -15,7 +15,7 @@ Each edition will include a recap of the previous week (in case you forget over 
  
 We hope you enjoy, and if you want to discuss anything with us, join the [Credo Community](https://github.com/investwithcredo/CredoCommunity/discussions). 
 
-### Investing Recap
+## Investing Recap
 (May 31, 2021 - June 4, 2021)
  
 **S&P 500** - 0.88% Gain
@@ -26,7 +26,7 @@ We hope you enjoy, and if you want to discuss anything with us, join the [Credo 
  
 **Ethereum** - 2.46% Loss
 
-### News and Notes
+## News and Notes
 
 **RBI (Reserve Bank of India)** - The Reserve Bank of India is directing Indian banks to stop deplatforming crypto customers. The ruling these risk-averse banks were referencing is now officially "set aside" and "no longer valid". [Read More...](https://twitter.com/balajis/status/1399368671194091520)
 
@@ -36,7 +36,7 @@ We hope you enjoy, and if you want to discuss anything with us, join the [Credo 
 
 **Yes, the SEC has noticed Elon Musk’s Tesla stock price tweet** - The Securities and Exchange Commission believes Elon Musk has violated his 2018 settlement agreement twice, according to correspondence obtained by The Wall Street Journal between the SEC and Tesla. [Read More...](https://www.theverge.com/2021/6/1/22463920/elon-musk-stock-price-tweets-sec)
  
-### Next Week
+## This Week
  
 Upcoming Earnings Reports
 - June 7, 2021 - SFIX - Stitch Fix Inc
