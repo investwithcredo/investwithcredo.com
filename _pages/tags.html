@@ -3,13 +3,6 @@ layout: page
 title: Tags
 permalink: /tag/
 ---
----
-layout: page
-title: Archive
-description: List of articles and posts by tags.
-permalink: /topics/
----
-
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
