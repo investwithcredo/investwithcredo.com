@@ -1,4 +1,3 @@
-
 ---
 layout: tag_page
 title: Credo
