@@ -1,6 +1,6 @@
 ---
 layout: tag_page
 title: Credo
-tags: Credo
+tags: CREDO
 permalink: /tags/credo
 ---
