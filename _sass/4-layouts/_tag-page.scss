@@ -7,6 +7,7 @@
     text-align: center;
     font-weight: normal;
     display: inline;
+    margin: 0 auto;
     
     span {
       font-weight: 700;
@@ -18,14 +19,15 @@
   h3 {
     text-align: center;
   }
-  &-ul {
+  ul {
     margin-left: 10px;
     list-style: none;
   }
-  &-li {
+  li {
     padding-left: 0;
     margin-left: 15px; 
     display: inline;
+    
   }
   a {
     text-decoration: none;
