@@ -26,7 +26,7 @@ to the `site_tags` variable. -->
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     
       <a href="#{{ this_word | cgi_escape }}" class="class="post__tags-tag">{{ this_word }}</a>
-        <span>({{ site.tags[this_word].size }})</span>
+        <span>({{ site.tags[this_word].size }}),</span>
     
     {% endunless %}{% endfor %}
 </div>
