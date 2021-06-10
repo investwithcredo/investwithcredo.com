@@ -128,7 +128,10 @@ hr {
 table {
   display: block;
   overflow-x: auto;
-  margin: 1rem 0;
+  margin-left:auto; 
+  margin-right:auto;
+  margin-top: 1em;
+  margin-bottom 1em;
   width: 100%;	
 
   td {
