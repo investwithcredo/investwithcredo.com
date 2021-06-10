@@ -4,7 +4,7 @@ title:  "Bitcoin Reward Halving"
 date:   2021-06-10
 published: true
 author: Neal Collins
-image:  bitcoin-halving-chart.jpeg
+image:  bitcoin-halving.jpg
 tags:   Bitcoin Cryptocurrency
 ---
 You might be tempted to run for your life now that bitcoin and many other crypto currencies have been drastically decreasing in price. I don’t blame you, seeing your initial investment begin to decrease sucks especially if you bought towards the top. The truth is Bitcoin has always moved in cycles.
