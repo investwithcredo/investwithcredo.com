@@ -22,3 +22,5 @@ Well what does this mean for Investors? As seen in the chart Bitcoin has made a 
 Just like everything else in this world nothing lasts forever. Bitcoin eventually begins to fall down inturn scaring investors both big and small witch than panic sell their holdings, then the news comes in and starts negative articles, which in turn fuels more sell off. It seems to be a big circle.
 
 Now the past isn’t always guide to the future, and I could be wrong about this and maybe this cycle will break and act differently I don’t have a crystal ball although I wish I did. Bitcoin is Digital Gold and underneath it is a numbers game of supply and demand. If your feeling bad about buying at the top and being down on your position don’t give up, many people are in the same position . Even I found myself buying the top in 2018 and that’s ok. If you didn’t buy the first bottom buy the next one. Bitcoin still continues to be one of the best performing assets of all time.
+
+Want to discuss this post? Join the community on the [discussion page](https://github.com/investwithcredo/credo.community/discussions/7)
