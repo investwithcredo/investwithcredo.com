@@ -16,6 +16,7 @@ The “halvening” or halving happens every 210,000 blocks witch equates to rou
 The first halving was in 2012 and saw rewards cut from 50 to 25, the second halving saw 25 to 12.5, and the most recent halving saw 12.5 to 6.25.
 
 ![Chart sourced from Coinmama.com](https://user-images.githubusercontent.com/64552980/121370455-5e0d9c80-c902-11eb-93cf-d05ce67b2f6b.jpeg)
+Chart from {Coinmama.com](https://coinmama.com)
 
 Well what does this mean for Investors? As seen in the chart Bitcoin has made a new high within a year to a year and a half after the halving. This happens for a few reasons. Investors begin to anticipate it (those savvy to studying the past performance of Bitcoin), the supply slowly begins to dry up and buyers are wiling to pay higher prices to buy it, then after it has gone up the news usually grabs hold of it and starts talking about its performance which drives new retail investors into the mix.
 
