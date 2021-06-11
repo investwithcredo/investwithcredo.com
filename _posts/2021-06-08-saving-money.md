@@ -49,3 +49,5 @@ For example: If you are bringing in $5,000 a month after taxes and have expenses
 These are small steps anyone can take, and it will make a big difference over the long run. However, I am not one of those that wants you to save every penny and live a miserable life in order to be wealthy in your retirement age. I believe in a well balanced life. It is totally fine to buy yourself a nice pair of shoes or take yourself to a nice restaurant after accomplishing something significant. If Starbucks is something you enjoy, I will not discourage anymore from grabbing a cup of coffee few times a week. If you enjoy traveling, take a trip whenever possible by monitoring your spending. 
 
 The ultimate goal here is starting to invest early while having fun with it.
+
+Want to discuss this post? Join the community on the [discussion page](https://github.com/investwithcredo/credo.community/discussions/8)
