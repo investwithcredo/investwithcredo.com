@@ -4,7 +4,7 @@ title:  "Credo Crunch #2"
 date:   2021-06-14
 published: false
 author: Stephen Woicik
-image:  credo-crunch-6721.jpg
+image:  credo-crunch-61421.jpg
 tags:   Links Bitcoin Cryptocurrency Stocks
 ---
 Hello Investors,
