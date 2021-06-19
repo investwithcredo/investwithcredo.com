@@ -2,7 +2,7 @@
 layout: post
 title:  "Credo Crunch #3"
 date:   2021-06-21
-published: falso
+published: false
 author: Stephen Woicik
 image:  credo-crunch-62121.jpg
 tags:   Links Bitcoin Cryptocurrency Stocks Economy
