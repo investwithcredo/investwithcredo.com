@@ -9,9 +9,7 @@ tags:   Links Bitcoin Cryptocurrency Stocks Economy
 ---
 Welcome to the third edition of Credo Crunch, the investing insights newsletter. Giving you the information you need to keep your investing on track.
 
-> "One day, your income will stop. Your expense won’t. Build wealth while you’re able."
-
-[Art of Investing](twitter.com/artofinvestmnt/status/1403065176182693896)
+> "One day, your income will stop. Your expense won’t. Build wealth while you’re able." [Art of Investing](twitter.com/artofinvestmnt/status/1403065176182693896)
 
 
 ## Weekly Recap
