@@ -13,14 +13,14 @@ Welcome to the third edition of Credo Crunch, the investing insights newsletter
 
 
 ## Weekly Recap
-(Pricing as of June 20, 2021 11:00 AM EST)
+(Pricing as of June 20, 2021 8:00 PM EST)
 
 | Asset              | Gain/Loss  |
 | :---:              | :---:      |
 | S&P 500            | 0.41% Gain |
 | Total Stock Market | 0.80% Loss |
-| Bitcoin            | 1.09% Gain  |
-| Ethereum           | 10.86% Loss |
+| Bitcoin            | 0.10% Loss |
+| Ethereum           | 5.74% Loss |
 
 ## News and Notes
 
