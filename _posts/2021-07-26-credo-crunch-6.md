@@ -19,8 +19,8 @@ Welcome to the fifth edition of Credo Crunch, the investing insights newsletter.
 | :---:              | :---:      |
 | S&P 500            | 1.01% Gain |
 | Total Stock Market | 1.00% Gain |
-| Bitcoin            | 5.57% Loss |
-| Ethereum           | 12.45% Loss |
+| Bitcoin            | 8.91% Gain |
+| Ethereum           | 13.34% Gain |
 
 ## News and Notes
 
