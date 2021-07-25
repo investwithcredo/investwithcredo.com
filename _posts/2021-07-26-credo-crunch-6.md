@@ -4,7 +4,7 @@ title:  "Credo Crunch #6"
 date:   2021-07-26
 published: falso
 author: Stephen Woicik
-image:  credo-crunch-71921.jpg
+image:  credo-crunch-72621.jpg
 tags:   Links Cryptocurrency Stocks NFT
 ---
 Welcome to the fifth edition of Credo Crunch, the investing insights newsletter. Giving you the information you need to keep your investing on track.
