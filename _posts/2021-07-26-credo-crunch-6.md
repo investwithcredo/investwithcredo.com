@@ -7,7 +7,7 @@ author: Stephen Woicik
 image:  credo-crunch-72621.jpg
 tags:   Links Cryptocurrency Stocks NFT
 ---
-Welcome to the fifth edition of Credo Crunch, the investing insights newsletter. Giving you the information you need to keep your investing on track.
+Welcome to the sixth edition of Credo Crunch, the investing insights newsletter. Giving you the information you need to keep your investing on track.
 
 > "Over time the biggest risk that you can take is to not take any risks." - Peter Thiel
 
@@ -24,23 +24,26 @@ Welcome to the fifth edition of Credo Crunch, the investing insights newsletter.
 
 ## News and Notes
 
-**Bitcoin, A Currency of Decolonization** - Fighting monetary colonialism with open-source code. France still uses monetary colonialism to exploit 15 African nations. Could Bitcoin be a way out? [Continue Reading...](https://clicks.aweber.com/y/ct/?l=EetXO&m=i276tYC2ZtWiEvM&b=B8u6M1cGBKv9O9FdBI0JWQ)
+**Elon Musk Says SpaceX Owns Bitcoin and He Owns Ethereum** - After a Twitter discussion last month, Twitter and Square founder Jack Dorsey and Tesla and SpaceX founder Elon Musk took the stage at The B Word conference to debate the merits of Bitcoin. [Continue Reading...](https://www.theblockcrypto.com/post/112158/elon-musk-says-spacex-owns-bitcoin-and-he-owns-ethereum-in-jack-dorsey-talk)
 
-**What is a non-fungible token (NFT)?** - NFTs (or “non-fungible tokens”) are a special kind of cryptoasset in which each token is unique — as opposed to “fungible” assets like Bitcoin and dollar bills, which are all worth exactly the same amount. Because every NFT is unique, they can be used to authenticate ownership of digital assets like artworks, recordings, and virtual real estate or pets. [Continue Reading...](https://clicks.aweber.com/y/ct/?l=EetXO&m=i276tYC2ZtWiEvM&b=ktN1nEA0Vyt11ep5PHTrTg)
+**Cramer on U.S.-listed China shares: ‘You can’t own these stocks’** - The continued actions by the Chinese government against companies with stocks that trade in the U.S. makes it impossible to invest in those companies, CNBC’s Jim Cramer said Friday. [Continue Reading...](https://www.cnbc.com/2021/07/23/cramer-on-us-listed-china-shares-you-cant-own-these-stocks.html)
  
 ## This Week
  
 Upcoming Earnings Reports
-- July 19, 2021 - JBHT - J B Hunt Transport Services Inc
-- July 20, 2021 - SYF - Synchrony Financial
-- July 20, 2021 - NFLX - Netflix Inc
-- July 20, 2021 - PM - Philip Morris International Inc
-- July 21, 2021 - ANTM - Anthem Inc
-- July 22, 2021 - LUV - Southwest Airlines Co
-- July 22, 2021 - T - AT&T Inc
-- July 22, 2021 -CROX - Crocs Inc
-- July 22, 2021 - SNAP - Snap Inc
-- July 22, 2021 - TWTR - Twitter Inc
-- July 23, 2021 - AXP - American Express Co
+- July 26, 2021 - TTCF - Tattooed Chef Inc
+- July 26, 2021 - CRSP - Crispr Therapeutics AG
+- July 27, 2021 - MMM - 3M Co
+- July 27, 2021 - GOOGL - Alphabet Inc
+- July 27, 2021 - AAPL - Apple Inc
+- July 27, 2021 - AMD - Advanced Micro Devices Inc
+- July 27, 2021 - GE - General Electric Co
+- July 28, 2021 - BA - Boeing Co
+- July 28, 2021 - BXMT - Blackstone Mortgage Trust Inc
+- July 28, 2021 - F - Ford Motor Co
+- July 29, 2021 - AMZN - Amazon.com Inc
+- July 29, 2021 - YUM - Yum! Brands Inc
+- July 30, 2021 - ABBV - Abbvie Inc
+- July 30, 2021 - CAT - Caterpillar Inc
 
 Want to get this information sent right to your inbox? Join [the newsletter](https://invest-with-credo.aweb.page/p/9e43c427-cf60-4bff-9100-574b16615fd0) to stay up to date. 
