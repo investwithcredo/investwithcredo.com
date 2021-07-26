@@ -2,7 +2,7 @@
 layout: post
 title:  "Credo Crunch #6"
 date:   2021-07-26
-published: falso
+published: true
 author: Stephen Woicik
 image:  credo-crunch-72621.jpg
 tags:   Links Cryptocurrency Stocks NFT
